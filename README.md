@@ -6,4 +6,4 @@ IP Camera Download to mp4
 
 This program converts standard or proprietary raw 264 or 265 files downloaded from security cameras (like the SV3C cameras) to mp4 files. The raw 264 and 265 files don't seem to have fixed frame rates, so the frame rate used for creating the mp4 can be adjusted as desired.
 
-
+CameraDownload2mp4.exe is large in size because it has ffmpeg.exe embedded in it.
